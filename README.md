@@ -1,2 +1,2 @@
 # Cisco---Networking-Basics
-Os conceitos básicos de redes de computadores e como elas funcionam.
+Neste curso, estarei aorendendo sobre redes de computadores e como elas funcionam no nosso dia a dia. sou iniciante no github.
